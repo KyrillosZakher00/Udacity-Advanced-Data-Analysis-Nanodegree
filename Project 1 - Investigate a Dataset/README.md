@@ -12,7 +12,7 @@ This dataset has 14 charactaristics as below:
 * Schedule Day: The day of regestration
 * Appointment Day: The examiniation Day
 * Age: How old is the patient
-* Neighbourhood: Where the appointment takes place
+* Neighbourhood: Where the appointment took place
 * Scholarship: True or False, indicates if the patient is in the Bolsa Familia program
 * Hypertension: True or False
 * Diabetes: True or False
