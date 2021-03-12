@@ -19,3 +19,4 @@ This dataset has 14 charactaristics as below:
 * Alcoholism: True or False
 * Handcap: Categorized from 0-4 as a number of handicaps 
 * SMS_received: True or False
+* No_show : True or false, indicates that the patient attended to the appointment or not
