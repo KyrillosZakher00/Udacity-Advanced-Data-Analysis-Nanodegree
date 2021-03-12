@@ -1,7 +1,5 @@
 # Project: No-Show Appointments
 
-## Introduction
-
 In this project, we will analyze the medical appointments of no shows dataset. This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment.
 
 This dataset has 14 charactaristics as below:
